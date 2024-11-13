@@ -1,0 +1,107 @@
+
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(Ä‚ŠÔûÿÿÿÿ8™òÀœ¤2HÑRMAJORZ
+CODE_SMELL
+l
+java:S1612J":Replace this lambda with method reference 'Entry::getKey'.(Á¶å8Ò™ä·¤2HÒRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(™ÇÉ£8éƒ½›¤2HÔRMAJORZ
+CODE_SMELL
+|
+java:S3655M"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(×ñõÈ8ü…“¸¤2HÕRMAJORZBUG
+k	java:S106."9Replace this use of System.out or System.err by a logger.(ÆÀûı8ˆ¿Æ¹¤2HÖRMAJORZ
+CODE_SMELL
+|
+java:S36555"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.( ¸•8ÔÀ¶İ¦2H×RMAJORZBUG
+r
+java:S1612D":Replace this lambda with method reference 'Entry::getKey'.(ß´Æ¬ÿÿÿÿÿ8ü…“¸¤2HØRMINORZ
+CODE_SMELL
+k	java:S106Q"9Replace this use of System.out or System.err by a logger.(×ñõÈ8Üßµœ¤2HÚRMAJORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'java.util.IntSummaryStatistics'.(Õö¤ù8ÎŠ·İ¦2HÛRMINORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(®ñŸûÿÿÿÿ8ç¢¤2HİRMAJORZ
+CODE_SMELL
+k	java:S1065"9Replace this use of System.out or System.err by a logger.( ¸•8ËëÌ¤2HŞRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¯¬Àıÿÿÿÿ8“Ğ¤2HßRMAJORZ
+CODE_SMELL
+k	java:S106I"9Replace this use of System.out or System.err by a logger.(×ñõÈ8›ë“Ÿ¤2HàRMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(“¬¡èşÿÿÿÿ8ƒş˜œ¤2HáRMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(˜·ÔÁúÿÿÿÿ8ÈÚ¿œ¤2HâRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ€‹ğşÿÿÿÿHãRMINORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(É„·âıÿÿÿÿ8È‘ú›¤2HäRMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(’¨°¾8ÔŸóÜ¦2HåRMAJORZ
+CODE_SMELL
+|
+java:S3655Q"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(×ñõÈ8„’½¸¤2HæRMAJORZBUG
+k	java:S106>"9Replace this use of System.out or System.err by a logger.(ˆóÔ±8è¿ë›¤2HçRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µü÷í8Ô‘ğ¸¤2HèRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ëİÜÿÿÿÿÿ8í‚Ÿ¤2HéRMAJORZ
+CODE_SMELL
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(×ñõÈ8ì¬ç¤2HêRMAJORZ
+CODE_SMELL
+k	java:S106X"9Replace this use of System.out or System.err by a logger.(ÏÍÎã8½å›¤2HëRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µòú˜8ü…“¸¤2HìRMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(Ÿ±áû8Æ‹û›¤2HíRMAJORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(Ğï¹¶üÿÿÿÿ8Ôü·¤2HîRMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(¨ à8Æ¤Ñ›¤2HïRMAJORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(˜ãËşÿÿÿÿ8˜Ö›¤2HğRMAJORZ
+CODE_SMELL
+k	java:S106\"9Replace this use of System.out or System.err by a logger.(¾§Ç†8éƒ½›¤2HñRMAJORZ
+CODE_SMELL
+m
+java:S1612G":Replace this lambda with method reference 'Entry::getKey'.(ï½şÛ8Ôü·¤2HòRMINORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(ö°Û8ğë¸¹¤2HôRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°Ûüÿÿÿÿ8Ô‘ğ¸¤2HõRMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(í•Ôå8ÒÆœ¤2HöRMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(éôµ§ÿÿÿÿÿ8ƒş˜œ¤2H÷RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÃË¸îûÿÿÿÿ8ğë¸¹¤2HøRMAJORZ
+CODE_SMELL
+|
+java:S3655I"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(×ñõÈ8Ôü·¤2HùRMAJORZBUG
+p	java:S106^"9Replace this use of System.out or System.err by a logger.(ïŞ¯÷úÿÿÿÿ8‰ÉÚ¹¤2HúRMAJORZ
+CODE_SMELL
+k	java:S106a"9Replace this use of System.out or System.err by a logger.(‡¶ôÆ8í‚Ÿ¤2HûRMAJORZ
+CODE_SMELL
+
+java:S36556"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(®ñŸûÿÿÿÿ8ÎŠ·İ¦2HüRMAJORZBUG
+r
+java:S1612N":Replace this lambda with method reference 'Entry::getKey'.(¡æ®ùÿÿÿÿ8›ë“Ÿ¤2HıRMINORZ
+CODE_SMELL
+j	java:S106c"9Replace this use of System.out or System.err by a logger.(İ‘±8“Ğ¤2HÿRMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(×üøê8©«ˆœ¤2H€RMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(×ñõÈ8¶Üøš¤2HRMAJORZ
+CODE_SMELL
+k	java:S106Y"9Replace this use of System.out or System.err by a logger.(ğ”ßä8©«ˆœ¤2H‚RMAJORZ
+CODE_SMELL
+
+java:S36558"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ä‚ŠÔûÿÿÿÿ8¡¼¤2HƒRMAJORZBUG
+p	java:S106V"9Replace this use of System.out or System.err by a logger.(±Ê”€ÿÿÿÿÿ8Üßµœ¤2H„RMAJORZ
+CODE_SMELL
+k	java:S106M"9Replace this use of System.out or System.err by a logger.(×ñõÈ8ü…“¸¤2H…RMAJORZ
+CODE_SMELL
+e
+java:S1128"2Remove this unused import 'java.util.OptionalInt'.(š”üÏ8ÎŠ·İ¦2H†RMINORZ
+CODE_SMELL
+k	java:S106F"9Replace this use of System.out or System.err by a logger.(×ñõÈ8·“÷Ü¦2HˆRMAJORZ
+CODE_SMELL

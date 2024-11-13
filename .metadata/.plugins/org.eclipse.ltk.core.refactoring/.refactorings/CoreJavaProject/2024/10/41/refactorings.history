@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;oopspolymorphism.ComplieTimePolymorphism.add(...).d&apos; in &apos;oopspolymorphism.ComplieTimePolymorphism.add(...)&apos;&#x0D;&#x0A;- Original project: &apos;CoreJavaProject&apos;&#x0D;&#x0A;- Original element: &apos;oopspolymorphism.ComplieTimePolymorphism.add(...).d&apos;" description="Inline local variable &apos;d&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src&lt;oopspolymorphism{ComplieTimePolymorphism.java" selection="181 5" stamp="1728469745942" version="1.0"/>
+</session>

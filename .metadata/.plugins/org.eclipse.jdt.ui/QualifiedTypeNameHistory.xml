@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="CoreJava.StaticVariableDemo"/>
+    <fullyQualifiedTypeName name="CoreJava.NonStaticMemberDemo"/>
+    <fullyQualifiedTypeName name="CoreJava.ObjectReferenceDemo"/>
+    <fullyQualifiedTypeName name="CoreJava.ObjectReferenceInStaticBlock"/>
+    <fullyQualifiedTypeName name="CoreJava.StaticReferenceDemo"/>
+    <fullyQualifiedTypeName name="CoreJava.ThisReferenceDemo"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="CoreJava.ReferenceInStaticMethod"/>
+    <fullyQualifiedTypeName name="CoreJava.StaticNestedClass"/>
+    <fullyQualifiedTypeName name="CoreJava.StaticNestedClass.NestedClass"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.IntSummaryStatistics"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="oopspolymorphism.ComplieTimePolymorphism"/>
+    <fullyQualifiedTypeName name="oopspolymorphism.MacBookPro"/>
+    <fullyQualifiedTypeName name="oopspolymorphism.MacBookAir"/>
+</qualifiedTypeNameHistroy>
